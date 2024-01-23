@@ -4,7 +4,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "root";
-$dbname = "authentification_chatgpt";
+$dbname = "authentification";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
